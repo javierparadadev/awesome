@@ -1,6 +1,6 @@
 <h1 align="center">Awesome!</h1>
 
-<div align="center">Just a list of awesome things that I found</div>
+<div align="center">Just a list of awesome tools & webs that I found and I usually use</div>
 
 ## Categories
 
