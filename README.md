@@ -6,8 +6,8 @@
 
 - [Categories](#categories)
   - [Security 🔐](#security)
-  - [Web development 👨🏻‍💻](#web)
-  - [DevOps ☁️](#web)
+  - [Web development 👨🏻‍💻](#web development)
+  - [DevOps ☁️](#devops)
 
 ## Categories
 
