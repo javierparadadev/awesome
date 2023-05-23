@@ -9,7 +9,7 @@
 - [Exploit Notes](https://exploit-notes.hdks.org/) - Notes for pentesting, bug bounty and CTFs.
 
 ### Data visualization
-- [Json viewer](https://online-json.com/json-viewer) - 
+- [Json viewer](https://online-json.com/json-viewer) - Simple JSON data viewer in the tree view.
 
 ### DevOps ☁️
 - [DSN Propagation checker](https://www.whatsmydns.net/) - Perform DNS lookup to check a domain name's current IP address and DNS.
