@@ -14,6 +14,7 @@
 ### DevOps ☁️
 - [DSN Propagation checker](https://www.whatsmydns.net/) - Perform DNS lookup to check a domain name's current IP address and DNS.
 
-### Cute 🐼
+### Github 🐙
 - [Github contributions chart generator](https://github-contributions.vercel.app/) - All your contributions in one image.
 - [Github Skyline](https://skyline.github.com/) - View a 3D model of your GitHub contribution graph.
+- [Git Stats](https://github.com/IonicaBizau/git-stats) - View your local Git statistics from your terminal.
