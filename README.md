@@ -8,6 +8,9 @@
 - [VirusTotal](https://www.virustotal.com/) - Tool for Analysing suspicious files, domains, IPs and URLs.
 - [Exploit Notes](https://exploit-notes.hdks.org/) - Notes for pentesting, bug bounty and CTFs.
 
+### Development
+- [Pepy](https://pepy.tech/) - Visualize download statistics of Python libraries.
+
 ### Data visualization
 - [JSON Crack](https://jsoncrack.com/) - Visualize JSON data into graphs.
 
