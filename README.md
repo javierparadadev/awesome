@@ -10,6 +10,7 @@
 
 ### Development 👨🏻‍💻
 - [Pepy](https://pepy.tech/) - Visualize download statistics of Python libraries.
+- [Compiler Explorer](https://godbolt.org/) - Assembler code equivalence display editor.
 
 ### Data visualization 📊
 - [JSON Crack](https://jsoncrack.com/) - Visualize JSON data into graphs.
