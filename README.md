@@ -6,6 +6,7 @@
 
 ### Security 🔐
 - [VirusTotal](https://www.virustotal.com/) - Tool for Analysing suspicious files, domains, IPs and URLs.
+- [ExploitDB](https://www.exploit-db.com/) - Online database of public available exploits and vulnerabilities
 - [Exploit Notes](https://exploit-notes.hdks.org/) - Notes for pentesting, bug bounty and CTFs.
 
 ### Development 👨🏻‍💻
