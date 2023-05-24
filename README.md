@@ -13,6 +13,7 @@
 
 ### Data visualization 📊
 - [JSON Crack](https://jsoncrack.com/) - Visualize JSON data into graphs.
+- [JSON Viewer](https://online-json.com/json-viewer) - Visualize JSON data into tree format.
 
 ### DevOps ☁️
 - [DSN Propagation checker](https://www.whatsmydns.net/) - Check DNS name propagation around the world.
