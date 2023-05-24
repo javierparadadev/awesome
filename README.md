@@ -33,3 +33,4 @@
 
 ### General 🌍
 - [Devhints](https://devhints.io/) - A collection of cheatsheets.
+- [Diagrams IO](https://app.diagrams.net/) - Create all kinds of diagrams.
