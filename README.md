@@ -12,6 +12,7 @@
 - [Pepy](https://pepy.tech/) - Visualize download statistics of Python libraries.
 - [Compiler Explorer](https://godbolt.org/) - Assembler code equivalence display editor.
 - [Planttext](https://www.planttext.com/) - PlantUML editor and viewer.
+- [JSON Path evaluator](https://jsonpath.com/) - Test and edit JSONs and JSON paths.
 
 ### Data visualization 📊
 - [JSON Crack](https://jsoncrack.com/) - Visualize JSON data into graphs.
