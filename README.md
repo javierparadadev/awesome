@@ -9,6 +9,7 @@
 - [ExploitDB](https://www.exploit-db.com/) - Online database of public available exploits and vulnerabilities
 - [Exploit Notes](https://exploit-notes.hdks.org/) - Notes for pentesting, bug bounty and CTFs.
 - [NIST CPE Search](https://nvd.nist.gov/products/cpe/search) - Search common vulnerabilities.
+- [MITRE CVE Search](https://cve.mitre.org/cve/search_cve_list.html) - Search CVEs by id or keywords.
 
 ### Development 👨🏻‍💻
 - [Pepy](https://pepy.tech/) - Visualize download statistics of Python libraries.
