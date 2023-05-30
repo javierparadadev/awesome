@@ -31,6 +31,7 @@
 
 ### Tools <a name="security@tools"></a>
 - [NMAP](https://nmap.org/) - Scanning and security auditing tool.
+- [Ghidra](https://ghidra-sre.org/) - Reverse engineering suite tool.
 
 ## Development 👨🏻‍💻 <a name="development"></a>
 
