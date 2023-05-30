@@ -58,7 +58,6 @@
 ### Websites <a name="github@websites"></a>
 - [Github contributions chart generator](https://github-contributions.vercel.app/) - All your contributions in one image.
 - [Github Skyline](https://skyline.github.com/) - View a 3D model of your GitHub contribution graph.
-- [Git Stats](https://github.com/IonicaBizau/git-stats) - View your local Git statistics from your terminal.
 - [Github unwrapped](https://www.githubunwrapped.com/) - A beautiful annual summary of your GitHub.
 
 ## General 🌍 <a name="general"></a>
