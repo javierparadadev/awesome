@@ -2,7 +2,7 @@
 
 <div align="center">Just a list of awesome tools & webs that I found and I usually use</div>
 
-## Table of Contents
+## Table of Contents 🗺️
 
 - [Security](#security)
   - [Websites](#security@websites)
