@@ -28,6 +28,7 @@
 - [Exploit Notes](https://exploit-notes.hdks.org/) - Notes for pentesting, bug bounty and CTFs.
 - [NIST CPE Search](https://nvd.nist.gov/products/cpe/search) - Search common vulnerabilities.
 - [MITRE CVE Search](https://cve.mitre.org/cve/search_cve_list.html) - Search CVEs by id or keywords.
+- [Shodan](https://www.shodan.io/) - Search engine specialized in gathering information about Internet-connected devices.
 
 ### Tools <a name="security@tools"></a>
 - [NMAP](https://nmap.org/) - Scanning and security auditing tool.
