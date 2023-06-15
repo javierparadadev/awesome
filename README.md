@@ -6,7 +6,8 @@
 
 - [Security](#security)
   - [Websites](#security@websites)
-  - [Tools](#security@tools)
+  - [CLI Software & Tools](#security@cli-software-and-tools)
+  - [Software & Tools](#security@software-and-tools)
 - [Development](#development)
   - [Websites](#development@websites)
 - [Data visualization](#data-visualization)
@@ -30,9 +31,12 @@
 - [MITRE CVE Search](https://cve.mitre.org/cve/search_cve_list.html) - Search CVEs by id or keywords.
 - [Shodan](https://www.shodan.io/) - Search engine specialized in gathering information about Internet-connected devices.
 
-### Tools <a name="security@tools"></a>
+### CLI Software & Tools <a name="security@cli-software-and-tools"></a>
 - [NMAP](https://nmap.org/) - Scanning and security auditing tool.
-- [Ghidra](https://ghidra-sre.org/) - Reverse engineering suite tool.
+
+### Software & Tools <a name="security@software-and-tools"></a>
+- [IDA](https://ghidra-sre.org/) - Reverse engineering suite tool.
+- [Ghidra](https://hex-rays.com/ida-pro/) - Reverse engineering suite tool.
 
 ## Development 👨🏻‍💻 <a name="development"></a>
 
