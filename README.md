@@ -34,11 +34,11 @@
 ### CLI Software & Tools <a name="security@cli-software-and-tools"></a>
 - [NMAP](https://nmap.org/) - Scanning and security auditing tool.
 - [Metasploit](https://www.metasploit.com/) - Penetration testing framework used for exploiting vulnerabilities.
+- [Nuclei](https://nuclei.projectdiscovery.io/) - Fast and customizable vulnerability scanner.
 
 ### Software & Tools <a name="security@software-and-tools"></a>
 - [IDA](https://ghidra-sre.org/) - Reverse engineering suite tool.
 - [Ghidra](https://hex-rays.com/ida-pro/) - Reverse engineering suite tool.
-- [Nuclei](https://nuclei.projectdiscovery.io/) - Fast and customizable vulnerability scanner.
 
 ## Development 👨🏻‍💻 <a name="development"></a>
 
