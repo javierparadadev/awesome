@@ -37,6 +37,7 @@
 ### Software & Tools <a name="security@software-and-tools"></a>
 - [IDA](https://ghidra-sre.org/) - Reverse engineering suite tool.
 - [Ghidra](https://hex-rays.com/ida-pro/) - Reverse engineering suite tool.
+- [Metasploit](https://www.metasploit.com/) - Penetration testing framework used for exploiting vulnerabilities.
 
 ## Development 👨🏻‍💻 <a name="development"></a>
 
