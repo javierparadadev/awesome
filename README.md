@@ -24,29 +24,29 @@
 ## Security 🔐 <a name="security"></a>
 
 ### Websites <a name="security@websites"></a>
-- [VirusTotal](https://www.virustotal.com/) - Tool for Analysing suspicious files, domains, IPs and URLs.
 - [ExploitDB](https://www.exploit-db.com/) - Online database of public available exploits and vulnerabilities
 - [Exploit Notes](https://exploit-notes.hdks.org/) - Notes for pentesting, bug bounty and CTFs.
-- [NIST CPE Search](https://nvd.nist.gov/products/cpe/search) - Search common vulnerabilities.
 - [MITRE CVE Search](https://cve.mitre.org/cve/search_cve_list.html) - Search CVEs by id or keywords.
+- [NIST CPE Search](https://nvd.nist.gov/products/cpe/search) - Search common vulnerabilities.
 - [Shodan](https://www.shodan.io/) - Search engine specialized in gathering information about Internet-connected devices.
+- [VirusTotal](https://www.virustotal.com/) - Tool for Analysing suspicious files, domains, IPs and URLs.
 
 ### CLI Software & Tools <a name="security@cli-software-and-tools"></a>
-- [NMAP](https://nmap.org/) - Scanning and security auditing tool.
 - [Metasploit](https://www.metasploit.com/) - Penetration testing framework used for exploiting vulnerabilities.
+- [NMAP](https://nmap.org/) - Scanning and security auditing tool.
 - [Nuclei](https://nuclei.projectdiscovery.io/) - Fast and customizable vulnerability scanner.
 
 ### Software & Tools <a name="security@software-and-tools"></a>
-- [IDA](https://ghidra-sre.org/) - Reverse engineering suite tool.
 - [Ghidra](https://hex-rays.com/ida-pro/) - Reverse engineering suite tool.
+- [IDA](https://ghidra-sre.org/) - Reverse engineering suite tool.
 
 ## Development 👨🏻‍💻 <a name="development"></a>
 
 ### Websites <a name="development@websites"></a>
-- [Pepy](https://pepy.tech/) - Visualize download statistics of Python libraries.
 - [Compiler Explorer](https://godbolt.org/) - Assembler code equivalence display editor.
-- [Planttext](https://www.planttext.com/) - PlantUML editor and viewer.
 - [JSON Path evaluator](https://jsonpath.com/) - Test and edit JSONs and JSON paths.
+- [Pepy](https://pepy.tech/) - Visualize download statistics of Python libraries.
+- [Planttext](https://www.planttext.com/) - PlantUML editor and viewer.
 
 ## Data visualization 📊 <a name="data-visualization"></a>
 
@@ -75,6 +75,6 @@
 ## General 🌍 <a name="general"></a>
 
 ### Websites <a name="general@websites"></a>
+- [Carbon](https://carbon.now.sh/) - Write cute code snippets and generate images.
 - [Devhints](https://devhints.io/) - A collection of cheatsheets.
 - [Diagrams IO](https://app.diagrams.net/) - Create all kinds of diagrams.
-- [Carbon](https://carbon.now.sh/) - Write cute code snippets and generate images.
