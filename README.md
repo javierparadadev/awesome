@@ -40,6 +40,7 @@
 ### Software & Tools <a name="security@software-and-tools"></a>
 - [Ghidra](https://hex-rays.com/ida-pro/) - Reverse engineering suite tool.
 - [IDA](https://ghidra-sre.org/) - Reverse engineering suite tool.
+- [ZAP](https://www.zaproxy.org/) - Web app proxy scanner.
 
 ## Development 👨🏻‍💻 <a name="development"></a>
 
