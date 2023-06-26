@@ -32,6 +32,7 @@
 - [VirusTotal](https://www.virustotal.com/) - Tool for Analysing suspicious files, domains, IPs and URLs.
 
 ### CLI Software & Tools <a name="security@cli-software-and-tools"></a>
+- [Hashcat](https://hashcat.net/hashcat/) - Brute-force password recovery tool.
 - [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Brute-force software tool for performing password attacks.
 - [Metasploit](https://www.metasploit.com/) - Penetration testing framework used for exploiting vulnerabilities.
 - [NMAP](https://nmap.org/) - Scanning and security auditing tool.
