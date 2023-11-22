@@ -10,6 +10,7 @@
   - [Software & Tools](#security@software-and-tools)
 - [Development](#development)
   - [Websites](#development@websites)
+  - [IDEs and Code editors](#development@ides-and-code-editors)
 - [Data visualization](#data-visualization)
   - [Websites](#data-visualization@websites)
 - [Devops](#devops)
@@ -51,6 +52,9 @@
 - [JSON Path evaluator](https://jsonpath.com/) - Test and edit JSONs and JSON paths.
 - [Pepy](https://pepy.tech/) - Visualize download statistics of Python libraries.
 - [Planttext](https://www.planttext.com/) - PlantUML editor and viewer.
+
+### IDEs & Code editors <a name="development@ides-and-code-editors"></a>
+- [Visual Strudio Code](https://code.visualstudio.com/) - Lightweight and versatile source code editor.
 
 ## Data visualization 📊 <a name="data-visualization"></a>
 
